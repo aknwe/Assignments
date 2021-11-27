@@ -75,9 +75,9 @@
 * Notes：[Lecture_Notes2](D:\TYCS\Material\Week2\CS61A\CS61A_Week2_lec.pdf)
 
 - [ ] Lab：
-  - [ ] [Sp10-Lab 1&2](D:\TYCS\Material\Week1\CS61A\CS61A_Week1_Lab.pdf)
+  - [ ] [Lab](D:\TYCS\Material\Week2\CS61A\CS61A_Week2_Lab.pdf)
 - [ ] Homework：
-  - [ ] [HW1(sp10)](D:\TYCS\Material\Week1\CS61A\hw1.pdf)
+  - [ ] [HW2(sp10)](D:\TYCS\Material\Week2\CS61A\hw2.pdf)
 - [ ] Project: /
 
 ### *CS61B*
